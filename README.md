@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Renan Fabricio
 
-- 📚 Estudante de Gestão da T.I, atualmente cursando o 4° período.
-##
  <div>
   <a href="https://github.com/Renanfls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

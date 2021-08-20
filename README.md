@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Renan Fabricio
 
+- 📚 Estudante de Gestão da T.I, atualmente cursando o 4° período.
+##
  <div>
   <a href="https://github.com/Renanfls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
   <img align="center" alt="Renan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+##
   
  <div>
   <a href = "mailto:contato.renanfabricio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

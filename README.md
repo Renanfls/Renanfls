@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/Renanfls">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfls&layout=compact&langs_count=7&theme=radical&title_color=fbdeb0&bg_color=000010&custom_title=Linguagens%20mais%20usadas"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfls&layout=compact&langs_count=7&theme=radical&title_color=fbdeb0&bg_color=000010&custom_title=Linguagens%20Ativas"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=radical&show_icons=true&title_color=fbdeb0&bg_color=000010&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
 <div style="display: inline_block"><br>

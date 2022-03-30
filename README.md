@@ -6,9 +6,9 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=radical&show_icons=true&title_color=fbdeb0&bg_color=000010&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renan-cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   

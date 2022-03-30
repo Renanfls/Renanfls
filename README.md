@@ -1,12 +1,14 @@
-## Olá! Eu sou o Renan Fabricio
+<div align="center">
+ <h1>Olá! Eu sou o Renan Fabricio</h1>
+</div>
 
- <div>
+ <div align="center">
   <a href="https://github.com/Renanfls">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfls&layout=compact&langs_count=7&theme=radical&title_color=fbdeb0&bg_color=000010&custom_title=Linguagens%20Ativas"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=radical&show_icons=true&title_color=fbdeb0&bg_color=000010&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfls&layout=compact&langs_count=7&theme=gotham&text_color=c3c3c3&title_color=fbdeb0&hide_border=none&bg_color=0D1117&custom_title=Linguagens%20Ativas"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=gotham&show_icons=true&icon_color=fbdeb0&text_color=c3c3c3&title_color=fbdeb0&hide_border=none&bg_color=0D1117&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
  
- ## 💻 Tecnologias que estou estudando
+ ## 📚 Tecnologias em estudo
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

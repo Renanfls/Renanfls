@@ -5,6 +5,9 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfls&layout=compact&langs_count=7&theme=radical&title_color=fbdeb0&bg_color=000010&custom_title=Linguagens%20Ativas"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=radical&show_icons=true&title_color=fbdeb0&bg_color=000010&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
+ 
+ ## 💻 Tecnologias que estou estudando
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

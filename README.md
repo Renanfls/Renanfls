@@ -8,13 +8,20 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=gotham&show_icons=true&icon_color=fbdeb0&text_color=c3c3c3&title_color=fbdeb0&hide_border=none&bg_color=0D1117&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
  
- ## 📚 Tecnologias em estudo
+ ## 🏆 Tecnologias em Estudadas
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
+
+ ## 📚 Tecnologias em estudo
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
   
 ##

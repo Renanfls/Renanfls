@@ -8,27 +8,29 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renanfls&theme=gotham&show_icons=true&icon_color=fbdeb0&text_color=c3c3c3&title_color=fbdeb0&hide_border=none&bg_color=0D1117&custom_title=Renan%20Fabricio%20GitHub%20Estatísticas"/>
 </div>
  
- ## 🏆 Tecnologias Estudadas
+ <div align="center">
+  <h2>🏆 Tecnologias Estudadas</h2>
+ </div>
  
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+</div><br>
 
- ## 📚 Tecnologias em Estudo
+<div align="center">
+ <h2>📚 Tecnologias em Estudo</h2>
+</div>
  
- <div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
+</div><br><br>
   
-##
-  
- <div>
+ <div align="center">
   <a href = "mailto:contato.renanfabricio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/renan-fabricio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
   <a href="https://t.me/RenanFabricio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>

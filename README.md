@@ -1,5 +1,9 @@
 <div align="center">
  <h1>Olá! Eu sou o Renan Fabricio</h1>
+ <h3>🎓Graduado em Gestão da T.I</h3>
+ 
+ #
+ 
 </div>
 
  <div align="center">

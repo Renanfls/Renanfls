@@ -25,7 +25,7 @@
 </div>
 
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,nodejs,supabase,vite" />
+ <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,nodejs,supabase,vite" />
 </div><br>
  
  <div align="center">

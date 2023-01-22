@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,styledcomponents" /><br><br>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,java,bootstrap,sass,styledcomponents" /><br><br>
  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,supabase,mysql,vite" /><br><br>
  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae" />
 </div><br>

@@ -18,8 +18,8 @@
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,styledcomponents" /><br><br>
- <img src="https://skillicons.dev/icons?i=mysql,vscode,androidstudio,git,github,vite" /><br><br>
+ <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular" /><br><br>
+ <img src="https://skillicons.dev/icons?i=mysql,androidstudio,git,next,vite,styledcomponents" /><br><br>
  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae" />
 </div><br>
  

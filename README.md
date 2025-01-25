@@ -19,7 +19,7 @@
  
 <div align="center"><br>
  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular" /><br><br>
- <img src="https://skillicons.dev/icons?i=cs,mysql,powerbi,git,next,vite,styledcomponents" /><br><br>
+ <img src="https://skillicons.dev/icons?i=cs,mysql,python,git,next,vite,styledcomponents" /><br><br>
  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae" />
 </div><br>
  
